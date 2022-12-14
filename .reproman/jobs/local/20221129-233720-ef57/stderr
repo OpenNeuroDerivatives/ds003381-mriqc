@@ -1,0 +1,10 @@
+Warning: Permanently added 'c129-144' (ED25519) to the list of known hosts.
+WARNING (11/29/22 23:38:55): LAUNCHER_WORKDIR variable not set. Using current directory.
+using /tmp/launcher.5022251.hostlist.vghozTjp to get hosts
+starting job on c129-144
+starting job on c129-151
+starting job on c129-152
+starting job on c129-153
+starting job on c129-154
+slurmstepd: error: *** JOB 5022251 ON c129-144 CANCELLED AT 2022-11-30T01:29:08 ***
+Terminated
